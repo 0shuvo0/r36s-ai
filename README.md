@@ -14,7 +14,7 @@ Stop watching tutorials. Start solving real-world engineering problems with your
 - [Balena Etcher](https://etcher.balena.io/)
 - [ChatterUI](https://github.com/0shuvo0/r36s-ai/raw/refs/heads/main/Chatter.apk)
 
-### AI Modeles:
+### AI Models:
 - [SmolLM2-135M-Instruct.Q4_0.gguf](https://huggingface.co/QuantFactory/SmolLM2-135M-Instruct-GGUF/blob/main/SmolLM2-135M-Instruct.Q4_0.gguf)
 - [SmolLM2-360M-Instruct-Q4_0.gguf](https://huggingface.co/bartowski/SmolLM2-360M-Instruct-GGUF/blob/main/SmolLM2-360M-Instruct-Q4_0.gguf)
 - [qwen2.5-0.5b-instruct-q4_0.gguf](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/blob/main/qwen2.5-0.5b-instruct-q4_k_m.gguf)
