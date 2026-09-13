@@ -12,7 +12,7 @@ Stop watching tutorials. Start solving real-world engineering problems with your
 ### Softwares: 
 - [LineageOS](https://github.com/andr36oid/releases/releases)
 - [Balena Etcher](https://etcher.balena.io/)
-- [ChatterUI](Chatter.apk)
+- [ChatterUI](https://github.com/0shuvo0/r36s-ai/raw/refs/heads/main/Chatter.apk)
 
 ### AI Modeles:
 - [SmolLM2-135M-Instruct.Q4_0.gguf](https://huggingface.co/QuantFactory/SmolLM2-135M-Instruct-GGUF/blob/main/SmolLM2-135M-Instruct.Q4_0.gguf)
