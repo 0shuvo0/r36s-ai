@@ -4,7 +4,6 @@
 
 ## Support me:
 [![Buy me a coffee](bmac.png)](https://buymeacoffee.com/0shuvo0)
-[![]
 
 ## [GitMission](https://www.gitmission.com/)
 Stop watching tutorials. Start solving real-world engineering problems with your virtual engineering team in a fully interactive browser environment. Visit [GitMission](https://www.gitmission.com/) to learn more.
